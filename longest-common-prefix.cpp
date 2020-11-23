@@ -29,7 +29,7 @@ public:
                 
                 if (tempPrefix == longestPrefix)
                 { 
-                    //break;
+                    break;
                 }
                 else
                 {
